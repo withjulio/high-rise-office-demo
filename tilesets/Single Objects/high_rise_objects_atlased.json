@@ -1,0 +1,1712 @@
+{
+    "fill_rate": 0,
+    "grid_height": 32,
+    "grid_width": 32,
+    "height": 736,
+    "image": "high_rise_objects_tileset.png",
+    "name": "high_rise_objects_atlased",
+    "padding_x": 0,
+    "padding_y": 0,
+    "pot": false,
+    "regions": [
+        {
+            "idx": 804,
+            "name": "2cubicle_desk_empty",
+            "origin": [
+                32,
+                64
+            ],
+            "rect": [
+                1536,
+                448,
+                64,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 802,
+            "name": "2cubicle_desk_stuffed",
+            "origin": [
+                32,
+                64
+            ],
+            "rect": [
+                1472,
+                448,
+                64,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 469,
+            "name": "4cubicle_desk_empty_A",
+            "origin": [
+                64,
+                96
+            ],
+            "rect": [
+                1184,
+                256,
+                128,
+                192
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 473,
+            "name": "4cubicle_desk_empty_B",
+            "origin": [
+                64,
+                96
+            ],
+            "rect": [
+                1312,
+                256,
+                128,
+                192
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 793,
+            "name": "4cubicle_desk_stuffed_A",
+            "origin": [
+                64,
+                96
+            ],
+            "rect": [
+                1184,
+                448,
+                128,
+                192
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 797,
+            "name": "4cubicle_desk_stuffed_B",
+            "origin": [
+                64,
+                96
+            ],
+            "rect": [
+                1312,
+                448,
+                128,
+                192
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 676,
+            "name": "bar taps_W",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                896,
+                384,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 401,
+            "name": "bar_L_table_black_NE",
+            "origin": [
+                32,
+                64
+            ],
+            "rect": [
+                736,
+                224,
+                64,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 398,
+            "name": "bar_L_table_black_NW",
+            "origin": [
+                32,
+                64
+            ],
+            "rect": [
+                640,
+                224,
+                64,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 617,
+            "name": "bar_L_table_black_SE",
+            "origin": [
+                32,
+                64
+            ],
+            "rect": [
+                736,
+                352,
+                64,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 614,
+            "name": "bar_L_table_black_SW",
+            "origin": [
+                32,
+                64
+            ],
+            "rect": [
+                640,
+                352,
+                64,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 622,
+            "name": "bar_stool",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                896,
+                352,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 132,
+            "name": "books_A",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                768,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 240,
+            "name": "books_B",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                768,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 242,
+            "name": "books_C",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                832,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 254,
+            "name": "bookshelf_brown_1x2",
+            "origin": [
+                32,
+                48
+            ],
+            "rect": [
+                1216,
+                128,
+                64,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 256,
+            "name": "bookshelf_white_1x2",
+            "origin": [
+                32,
+                48
+            ],
+            "rect": [
+                1280,
+                128,
+                64,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 296,
+            "name": "cabinet_black_1x2",
+            "origin": [
+                32,
+                32
+            ],
+            "rect": [
+                832,
+                160,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 294,
+            "name": "coffee_A",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                768,
+                160,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 295,
+            "name": "coffee_B",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                800,
+                160,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 348,
+            "name": "coffee_C",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                768,
+                192,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 349,
+            "name": "coffee_D",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                800,
+                192,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 624,
+            "name": "coffee_maker",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                960,
+                352,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 461,
+            "name": "coffee_making_kitchen",
+            "origin": [
+                32,
+                48
+            ],
+            "rect": [
+                928,
+                256,
+                64,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 82,
+            "name": "computer_black_E",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                896,
+                32,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 83,
+            "name": "computer_black_W",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                928,
+                32,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 813,
+            "name": "desert_plant",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                96,
+                480,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 134,
+            "name": "desk_portrait",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                832,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 465,
+            "name": "dishwasing_kitchen",
+            "origin": [
+                32,
+                48
+            ],
+            "rect": [
+                1056,
+                256,
+                64,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 239,
+            "name": "document_A",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                736,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 293,
+            "name": "document_B",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                736,
+                160,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 190,
+            "name": "drawing_computer_E",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                896,
+                96,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 191,
+            "name": "drawing_computer_W",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                928,
+                96,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 298,
+            "name": "drawing_computer_coffee_E",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                896,
+                160,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 299,
+            "name": "drawing_computer_coffee_W",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                928,
+                160,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 442,
+            "name": "executive_L_brown_desk_E",
+            "origin": [
+                32,
+                64
+            ],
+            "rect": [
+                320,
+                256,
+                64,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 444,
+            "name": "executive_L_brown_desk_W",
+            "origin": [
+                32,
+                64
+            ],
+            "rect": [
+                384,
+                256,
+                64,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 379,
+            "name": "executive_chair_brown_E",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                32,
+                224,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 380,
+            "name": "executive_chair_brown_W",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                64,
+                224,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 812,
+            "name": "fan_leaf_plant",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                64,
+                480,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 81,
+            "name": "flower_vase",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                864,
+                32,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 97,
+            "name": "focus_area_4desks",
+            "origin": [
+                32,
+                96
+            ],
+            "rect": [
+                1376,
+                32,
+                64,
+                192
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 99,
+            "name": "focus_area_4desks_foreground",
+            "origin": [
+                32,
+                96
+            ],
+            "rect": [
+                1440,
+                32,
+                64,
+                192
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 101,
+            "name": "focus_area_5desks",
+            "origin": [
+                32,
+                112
+            ],
+            "rect": [
+                1504,
+                32,
+                64,
+                224
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 103,
+            "name": "focus_area_5desks_foreground",
+            "origin": [
+                32,
+                112
+            ],
+            "rect": [
+                1568,
+                32,
+                64,
+                224
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 623,
+            "name": "foods",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                928,
+                352,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 610,
+            "name": "futuristic_panel_table",
+            "origin": [
+                48,
+                32
+            ],
+            "rect": [
+                512,
+                352,
+                96,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 90,
+            "name": "game_dominion",
+            "origin": [
+                16,
+                64
+            ],
+            "rect": [
+                1152,
+                32,
+                32,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 91,
+            "name": "game_golf",
+            "origin": [
+                16,
+                64
+            ],
+            "rect": [
+                1184,
+                32,
+                32,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 271,
+            "name": "gaming_chair_blue_E",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                32,
+                160,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 274,
+            "name": "gaming_chair_blue_N",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                128,
+                160,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 272,
+            "name": "gaming_chair_blue_S",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                64,
+                160,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 273,
+            "name": "gaming_chair_blue_W",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                96,
+                160,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 447,
+            "name": "glass_table_black",
+            "origin": [
+                16,
+                64
+            ],
+            "rect": [
+                480,
+                256,
+                32,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 79,
+            "name": "globe",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                800,
+                32,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 488,
+            "name": "guest_couch_black_E",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                64,
+                288,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 489,
+            "name": "guest_couch_black_W",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                96,
+                288,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 487,
+            "name": "guest_couch_gray_E",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                32,
+                288,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 490,
+            "name": "guest_couch_gray_W",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                128,
+                288,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 238,
+            "name": "guitar_W",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                704,
+                128,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 446,
+            "name": "hanging_table_black",
+            "origin": [
+                16,
+                64
+            ],
+            "rect": [
+                448,
+                256,
+                32,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 410,
+            "name": "marble_coffee_table_1x1_A",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                1024,
+                224,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 411,
+            "name": "marble_coffee_table_1x1_B",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                1056,
+                224,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 302,
+            "name": "marble_coffee_table_1x2_A",
+            "origin": [
+                32,
+                16
+            ],
+            "rect": [
+                1024,
+                160,
+                64,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 356,
+            "name": "marble_coffee_table_1x2_B",
+            "origin": [
+                32,
+                16
+            ],
+            "rect": [
+                1024,
+                192,
+                64,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 301,
+            "name": "marble_coffee_table_2x1",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                992,
+                160,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 300,
+            "name": "marble_coffee_table_3x1",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                960,
+                160,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 650,
+            "name": "ornamented_bamboo",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                64,
+                384,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 703,
+            "name": "overgrown_planter",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                32,
+                416,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 88,
+            "name": "pool_table",
+            "origin": [
+                32,
+                64
+            ],
+            "rect": [
+                1088,
+                32,
+                64,
+                128
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 705,
+            "name": "potted_plant_A",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                96,
+                416,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 706,
+            "name": "potted_plant_B",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                128,
+                416,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 759,
+            "name": "potted_plant_C",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                96,
+                448,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 760,
+            "name": "potted_plant_D",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                128,
+                448,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 187,
+            "name": "printer_black",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                800,
+                96,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 386,
+            "name": "receptionist_L_bluegray_desk_W",
+            "origin": [
+                32,
+                80
+            ],
+            "rect": [
+                256,
+                224,
+                64,
+                160
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 384,
+            "name": "receptionist_L_desk_bluegray_E",
+            "origin": [
+                32,
+                80
+            ],
+            "rect": [
+                192,
+                224,
+                64,
+                160
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 460,
+            "name": "refrigerator",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                896,
+                256,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 94,
+            "name": "shelf_1x1_E",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                1280,
+                32,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 95,
+            "name": "shelf_1x1_W",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                1312,
+                32,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 92,
+            "name": "shelf_1x2",
+            "origin": [
+                32,
+                48
+            ],
+            "rect": [
+                1216,
+                32,
+                64,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 126,
+            "name": "shelf_cabinet_1x2",
+            "origin": [
+                32,
+                32
+            ],
+            "rect": [
+                576,
+                64,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 128,
+            "name": "shelf_cabinet_1x3",
+            "origin": [
+                48,
+                32
+            ],
+            "rect": [
+                640,
+                64,
+                96,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 84,
+            "name": "shelf_cabinet_objects_A",
+            "origin": [
+                64,
+                32
+            ],
+            "rect": [
+                960,
+                32,
+                128,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 192,
+            "name": "shelf_cabinet_objects_B",
+            "origin": [
+                32,
+                32
+            ],
+            "rect": [
+                960,
+                96,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 194,
+            "name": "shelf_cabinet_objects_C",
+            "origin": [
+                32,
+                32
+            ],
+            "rect": [
+                1024,
+                96,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 109,
+            "name": "small_couch_black_E",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                32,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 112,
+            "name": "small_couch_black_N",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                128,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 110,
+            "name": "small_couch_black_S",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                64,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 111,
+            "name": "small_couch_black_W",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                96,
+                64,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 55,
+            "name": "small_couch_gray_E",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                32,
+                32,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 58,
+            "name": "small_couch_gray_N",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                128,
+                32,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 56,
+            "name": "small_couch_gray_S",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                64,
+                32,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 57,
+            "name": "small_couch_gray_W",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                96,
+                32,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 62,
+            "name": "sofa_black_1x1_E",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                256,
+                32,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 63,
+            "name": "sofa_black_1x1_W",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                288,
+                32,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 60,
+            "name": "sofa_black_1x3_E",
+            "origin": [
+                16,
+                80
+            ],
+            "rect": [
+                192,
+                32,
+                32,
+                160
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 61,
+            "name": "sofa_black_1x3_W",
+            "origin": [
+                16,
+                80
+            ],
+            "rect": [
+                224,
+                32,
+                32,
+                160
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 67,
+            "name": "sofa_gray_1x2_E",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                416,
+                32,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 173,
+            "name": "sofa_gray_1x2_N",
+            "origin": [
+                32,
+                32
+            ],
+            "rect": [
+                352,
+                96,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 65,
+            "name": "sofa_gray_1x2_S",
+            "origin": [
+                32,
+                32
+            ],
+            "rect": [
+                352,
+                32,
+                64,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 68,
+            "name": "sofa_gray_1x2_W",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                448,
+                32,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 77,
+            "name": "standing_lamp_gray",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                736,
+                32,
+                32,
+                96
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 517,
+            "name": "stove",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                992,
+                288,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 477,
+            "name": "stuff_for_4cubicle_A",
+            "origin": [
+                64,
+                80
+            ],
+            "rect": [
+                1440,
+                256,
+                128,
+                160
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 481,
+            "name": "stuff_for_4cubicle_B",
+            "origin": [
+                64,
+                80
+            ],
+            "rect": [
+                1568,
+                256,
+                128,
+                160
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 811,
+            "name": "sturdy_plant",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                32,
+                480,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 243,
+            "name": "tablet",
+            "origin": [
+                16,
+                16
+            ],
+            "rect": [
+                864,
+                128,
+                32,
+                32
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 163,
+            "name": "tech_chair_blue_E",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                32,
+                96,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 166,
+            "name": "tech_chair_blue_N",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                128,
+                96,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 164,
+            "name": "tech_chair_blue_S",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                64,
+                96,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 165,
+            "name": "tech_chair_blue_W",
+            "origin": [
+                16,
+                32
+            ],
+            "rect": [
+                96,
+                96,
+                32,
+                64
+            ],
+            "rotated": false
+        },
+        {
+            "idx": 467,
+            "name": "water_cooler",
+            "origin": [
+                16,
+                48
+            ],
+            "rect": [
+                1120,
+                256,
+                32,
+                96
+            ],
+            "rotated": false
+        }
+    ],
+    "regions_count": 113,
+    "rotations": false,
+    "using_grid": true,
+    "width": 1728
+}
